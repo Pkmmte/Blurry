@@ -1,6 +1,28 @@
 Change Log
 ==========
 
+Version 2.0.2 *(2016-04-21)*
+----------------------------
+
+Fix Fatal Signal
+
+Version 2.0.1 *(2016-04-21)*
+----------------------------
+
+Fix RSInvalidStateException.
+
+Version 2.0.0 *(2016-03-02)*
+----------------------------
+
+Say v8.RenderScript goodbye
+
+Version 1.1.0 *(2016-02-28)*
+----------------------------
+
+PR: [#21](https://github.com/wasabeef/Blurry/pull/21) Use FastBlur as a fallback upon RenderScript failure.  
+　　fix Issue [#16](https://github.com/wasabeef/Blurry/issues/16)  
+PR: [#18](https://github.com/wasabeef/Blurry/pull/18) Added optional listener.
+
 Version 1.0.5 *(2015-11-27)*
 ----------------------------
 
